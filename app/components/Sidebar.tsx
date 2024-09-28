@@ -2,6 +2,7 @@
 // /components/Sidebar.tsx
 import { motion } from 'framer-motion';
 import { useState, useEffect } from 'react';
+import { CiSearch } from 'react-icons/ci';
 
 type Location = {
   id: number;
@@ -51,11 +52,13 @@ const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) 
       </div>
 
       {/* Search Bar */}
-      <div className="mb-6 relative">
+      <div className="mb-6 relative flex bg-[#F7F7F8]">
+        <CiSearch />
+
         <input
           type="text"
-          placeholder="Search location..."
-          className="border border-gray-300 p-2 w-full rounded"
+          placeholder="Search location"
+          className="border border-gray-100 p-2 w-full rounded "
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
         />
@@ -80,16 +83,16 @@ const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) 
 
       {/* Filter by Category */}
       <div className="mb-6">
-        <h3 className="text-lg font-bold mb-2">Filter by Category</h3>
+        <h3 className="text-lg font-bold mb-2 text-[#81828bfd] text-[15px]">Filter by Category</h3>
         <div className="flex space-x-4">
           <button
-            className="bg-blue-500 text-white py-2 px-4 rounded hover:bg-blue-600"
+            className="bg-gray-300 text-white py-2 px-4 rounded hover:bg-[#81828bfd]"
             onClick={() => onFilter('hospital')}
           >
             Hospitals
           </button>
           <button
-            className="bg-green-500 text-white py-2 px-4 rounded hover:bg-green-600"
+            className="bg-gray-300 text-white py-2 px-4 rounded hover:bg-[#81828bfd]"
             onClick={() => onFilter('school')}
           >
             Schools
