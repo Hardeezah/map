@@ -2,6 +2,7 @@
 import { useState, useEffect } from 'react';
 import { CiSearch } from 'react-icons/ci';
 import DataDisplay from './LocationList'; // Optional component, if you need additional data display
+import React from 'react';
 
 export type Location = {
   id: number;
@@ -22,6 +23,7 @@ const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) 
   const [searchTerm, setSearchTerm] = useState('');
   const [filteredLocations, setFilteredLocations] = useState<Location[]>([]);
   const [activeFilter, setActiveFilter] = useState<string | null>(null);
+  const [selectedLocation, setSelectedLocation] = useState<Location | null>(null); // State to track selected location
 
   useEffect(() => {
     if (searchTerm) {
@@ -42,63 +44,80 @@ const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) 
 
   return (
     <div className="fixed top-0 left-0 h-screen w-1/4 bg-white shadow-xl z-50 px-8 py-6">
-      <button onClick={onClose} className="absolute top-4 right-4 text-xl">&times;</button>
-      <div className="mb-6">
-        <p className="text-[#6C6D73] text-[30px] font-bold">G-Map</p>
-      </div>
-      <div className={`mb-6 relative flex bg-[#F7F7F8] justify-center text-gray-600 text-center p-1 px-2 gap-1 rounded-md ${searchTerm ? 'border border-gray-500' : 'border border-gray-100'}`}>
-        <CiSearch width={50} height={50} className='text-center self-center w-6 h-6 text-[#B4B6BA]'/>
-        <input
-          type="text"
-          placeholder="Search location"
-          className="p-2 w-full rounded bg-[#F7F7F8] outline-none"
-          value={searchTerm}
-          onChange={(e) => setSearchTerm(e.target.value)}
-        />
-        {filteredLocations.length > 0 && (
-          <ul className="absolute left-0 w-full bg-white shadow-md max-h-48 overflow-y-auto z-50 border border-gray-300 mt-2 rounded">
-            {filteredLocations.map((location) => (
-              <li
-                key={location.id}
-                className="p-2 hover:bg-gray-300 cursor-pointer text-gray-800 font-semibold text-sm"
-                onClick={() => {
-                  onSearch(location); // Set the map center to the selected location
-                  setSearchTerm(''); // Clear search after selection
-                }}
-              >
-                {location.name}
-              </li>
-            ))}
-          </ul>
-        )}
-      </div>
-
-      {/* Filter by Category */}
-      <div className="mb-6">
-        <h3 className="text-md font-bold mb-2 text-[#81828bfd] text-[15px]">Filter by Category</h3>
-        <div className="flex space-x-4">
+      {/* Check if a location is selected, if so display the full-screen overlay */}
+      {selectedLocation ? (
+        <div className="absolute top-0 left-0 w-full h-full bg-white p-6 shadow-lg z-10 flex flex-col">
           <button
-            className={`py-1 px-2 text-sm rounded-xl ${activeFilter === 'hospital' ? 'bg-gray-400 text-white' : 'bg-gray-300 text-gray-400'}`}
-            onClick={() => handleFilterClick('hospital')}
+            onClick={() => setSelectedLocation(null)}
+            className="text-blue-400 mb-3 self-start"
           >
-            Hospitals
+            &larr; Back
           </button>
-          <button
-            className={`py-1 px-2 text-sm rounded-xl ${activeFilter === 'school' ? 'bg-gray-400 text-white' : 'bg-gray-300 text-gray-400'}`}
-            onClick={() => handleFilterClick('school')}
-          >
-            Schools
-          </button>
-          <button
-            className={`py-1 px-2 text-sm rounded-md ${activeFilter === null ? 'bg-gray-400 text-white' : 'bg-gray-300 text-gray-400'}`}
-            onClick={() => handleFilterClick(null)}  // Show all
-          >
-            All
-          </button>
+          <h2 className="text-gray-800 font-bold text-xl mb-2">{selectedLocation.name}</h2>
+          {/* You can add more detailed info here */}
         </div>
-      </div>
+      ) : (
+        <>
+          {/* Sidebar content (when no location is selected) */}
+          <button onClick={onClose} className="absolute top-4 right-4 text-xl">&times;</button>
+          <div className="mb-6">
+            <p className="text-[#6C6D73] text-[30px] font-bold">KadMap</p>
+          </div>
+          <div className={`mb-6 relative flex bg-[#F7F7F8] justify-center text-gray-600 text-center p-1 px-2 gap-1 rounded-md ${searchTerm ? 'border border-gray-500' : 'border border-gray-100'}`}>
+            <CiSearch width={50} height={50} className='text-center self-center w-6 h-6 text-[#B4B6BA]' />
+            <input
+              type="text"
+              placeholder="Search location"
+              className="p-2 w-full rounded bg-[#F7F7F8] outline-none"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+            />
+            {filteredLocations.length > 0 && (
+              <ul className="absolute left-0 w-full bg-white shadow-md max-h-48 overflow-y-auto z-50 border border-gray-300 mt-2 rounded">
+                {filteredLocations.map((location) => (
+                  <li
+                    key={location.id}
+                    className="p-2 hover:bg-gray-300 cursor-pointer text-gray-800 font-semibold text-sm"
+                    onClick={() => {
+                      setSelectedLocation(location); // Set the selected location to display the overlay
+                      setSearchTerm(''); // Clear search after selection
+                    }}
+                  >
+                    {location.name}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
 
-      <DataDisplay /> {/* Optional component */}
+          {/* Filter by Category */}
+          <div className="mb-6">
+            <h3 className="text-md font-bold mb-2 text-[#81828bfd] text-[15px]">Filter by Category</h3>
+            <div className="flex space-x-4">
+              <button
+                className={`py-1 px-2 text-sm rounded-xl ${activeFilter === 'hospital' ? 'bg-gray-400 text-white' : 'bg-gray-300 text-gray-400'}`}
+                onClick={() => handleFilterClick('hospital')}
+              >
+                Hospitals
+              </button>
+              <button
+                className={`py-1 px-2 text-sm rounded-xl ${activeFilter === 'school' ? 'bg-gray-400 text-white' : 'bg-gray-300 text-gray-400'}`}
+                onClick={() => handleFilterClick('school')}
+              >
+                Schools
+              </button>
+              <button
+                className={`py-1 px-2 text-sm rounded-md ${activeFilter === null ? 'bg-gray-400 text-white' : 'bg-gray-300 text-gray-400'}`}
+                onClick={() => handleFilterClick(null)}  // Show all
+              >
+                All
+              </button>
+            </div>
+          </div>
+
+          <DataDisplay /> {/* Optional component */}
+        </>
+      )}
     </div>
   );
 };
