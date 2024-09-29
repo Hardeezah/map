@@ -5,6 +5,7 @@ import L from 'leaflet';
 import { MapContainer, TileLayer, Marker, Popup, GeoJSON, useMap } from 'react-leaflet';
 import 'leaflet/dist/leaflet.css';
 import 'leaflet.heat'; // Ensure leaflet.heat is imported
+import { FeatureCollection, Feature, Polygon, GeoJsonObject } from 'geojson';
 
 export type Location = {
   id: number;
@@ -14,16 +15,16 @@ export type Location = {
   lon: number;
 };
 
-// GeoJSON Boundary for Kaduna (you can replace this with the full boundary coordinates)
-const kadunaGeoJSON = {
-  "type": "FeatureCollection",
-  "features": [
+// GeoJSON Boundary for Kaduna
+const kadunaGeoJSON: FeatureCollection = {
+  type: "FeatureCollection",  // Correct type for GeoJSON
+  features: [
     {
-      "type": "Feature",
-      "properties": { "name": "Kaduna" },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
+      type: "Feature",
+      properties: { name: "Kaduna" },
+      geometry: {
+        type: "Polygon" as const,  // Ensure type is correct
+        coordinates: [
           [
             [7.385, 9.543],
             [7.542, 10.152],
@@ -35,12 +36,16 @@ const kadunaGeoJSON = {
           ]
         ]
       }
-    }
+    } as Feature  // Explicitly type the feature
   ]
 };
 
 // Set the max bounds for Kaduna state
-const kadunaBounds = [[9.543, 7.112], [10.667, 7.940]]; // Replace with your actual coordinates
+// Set the max bounds for Kaduna state
+const kadunaBounds: L.LatLngTuple[] = [
+  [9.543, 7.112], // South-west corner
+  [10.667, 7.940] // North-east corner
+]; // Replace with your actual coordinates
 
 // Custom icon generator based on category
 const customIcon = (category: string, isSelected: boolean) => {
@@ -63,7 +68,7 @@ const RecenterMap: React.FC<{ center: [number, number]; locations: Location[] }>
     map.setView(center, map.getZoom()); // Set map view to new center
     
     // Ensure the heatmap is cleared before adding a new one
-    const heatData = locations.map((location) => [location.lat, location.lon, 0.5]); // Intensity at 0.5
+    const heatData: [number, number, number][] = locations.map((location) => [location.lat, location.lon, 0.5]); // Explicitly type heatData
     
     if (heatData.length > 0) {
       const heatLayer = L.heatLayer(heatData, {
@@ -94,7 +99,7 @@ const KadunaMap: React.FC<KadunaMapProps> = ({ locations, center, selectedLocati
     <MapContainer 
       center={center} 
       zoom={12} 
-      className="h-screen w-3/4 right-0 fixed map-container" // Change w-3/4 to w-full for full width
+      className="h-screen w-3/4 right-0 fixed " // Change w-3/4 to w-full for full width
       maxBounds={kadunaBounds} // Restrict the panning to Kaduna bounds
     >
       <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />

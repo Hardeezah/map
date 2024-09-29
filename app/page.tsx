@@ -5,6 +5,15 @@ import Sidebar from './components/Sidebar';
 import KadunaMap from './components/Map';
 import locationData from './constant/mapData.json'; // Import your JSON data
 
+// Define the Location type
+type Location = {
+  id: number;
+  name: string;
+  category: string;
+  lat: number;
+  lon: number;
+};
+
 // Define initial location data with explicit typing
 const initialLocations: Location[] = locationData.map(location => ({
   id: location.id,
