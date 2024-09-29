@@ -4,7 +4,11 @@ import { useState } from 'react';
 import Sidebar from './components/Sidebar';
 import KadunaMap from './components/Map';
 import locationData from './constant/mapData.json'; // Import your JSON data
+import dynamic from 'next/dynamic';
 
+const DynamicKadunaMap = dynamic(() => import('./components/Map'), { 
+  ssr: false 
+});
 // Define the Location type
 type Location = {
   id: number;
@@ -56,7 +60,7 @@ export default function Home() {
         onFilter={handleFilter}     // Pass the onFilter function
         onClose={() => console.log('Sidebar closed')}
       />
-      <KadunaMap
+      <DynamicKadunaMap
         locations={filteredLocations}
         center={mapCenter}
         selectedLocationId={selectedLocationId}  // Pass the selected location ID for animation

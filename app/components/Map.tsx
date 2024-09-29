@@ -72,9 +72,9 @@ const RecenterMap: React.FC<{ center: [number, number]; locations: Location[] }>
     
     if (heatData.length > 0) {
       const heatLayer = L.heatLayer(heatData, {
-        radius: 25,  // Adjust heatmap radius
-        blur: 15,    // Adjust blur to smooth the heatmap
-        maxZoom: 17, // Ensure it shows up at higher zoom levels
+        radius: 40,  
+        blur: 10,   
+        maxZoom: 17, 
       });
 
       heatLayer.addTo(map); // Add heatmap layer to the map
