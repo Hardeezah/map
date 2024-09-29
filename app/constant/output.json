@@ -394,5 +394,24 @@
             "private": 10,
             "total": 55
         }
+    },
+	{
+        "id": 23,
+        "Name": "Zaria",
+        "Status": "Local Government Area",
+        "Census1991-11-26": "...",
+        "Census2006-03-21": "122,249",
+        "Projection2022-03-21": "179,200",
+        "totalHospitals": {
+            "public": 4,
+            "private": 2,
+            "total": 6
+        },
+        "totalSchools": {
+            "public": 45,
+            "private": 10,
+            "total": 55
+        }
     }
+]
 ]

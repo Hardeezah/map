@@ -33,9 +33,9 @@ const DataDisplay: React.FC = () => {
   };
 
   return (
-    <div className="relative h-full w-full">
+    <div className="relative h-full w-full ">
       {selectedLocation ? (
-        <div className="absolute top-0 left-0 w-full h-full bg-white z-10 flex flex-col">
+        <div className="absolute top-0 left-0 w-full h-full bg-white z-10 flex flex-col mb-3">
           <div className="flex gap-5 text-center mb-10">
             <button
               onClick={handleBack}
@@ -69,7 +69,7 @@ const DataDisplay: React.FC = () => {
           <p className="text-gray-500 text-sm mb-5">2.5% Annual Population Change [2006 → 2022]</p>
           <ul>
             {locationData.map((location: LocationData) => (
-              <li key={location.id} className="mb-4">
+              <li key={location.id} className="mb-1">
                 <button
                   onClick={() => setSelectedLocation(location)}
                   className="text-blue-400"
