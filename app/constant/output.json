@@ -1,0 +1,187 @@
+  [
+	
+	{
+		"id": 2,
+		"Name": "Birnin-Gwari",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "143,072",
+		"Census2006-03-21": "258,581",
+		"Projection2022-03-21": "382,000"
+	},
+	{
+		"id": 3,
+		"Name": "Chikun",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "372,272",
+		"Projection2022-03-21": "550,000"
+	},
+	{
+		"id": 4,
+		"Name": "Giwa",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "171,061",
+		"Census2006-03-21": "292,384",
+		"Projection2022-03-21": "432,000"
+	},
+	{
+		"id": 5,
+		"Name": "Igabi",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "308,239",
+		"Census2006-03-21": "430,753",
+		"Projection2022-03-21": "636,400"
+	},
+	{
+		"id": 6,
+		"Name": "Ikara",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "194,723",
+		"Projection2022-03-21": "287,700"
+	},
+	{
+		"id": 7,
+		"Name": "Jaba",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "66,119",
+		"Census2006-03-21": "155,973",
+		"Projection2022-03-21": "230,400"
+	},
+	{
+		"id": 8,
+		"Name": "Jema'a",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "278,202",
+		"Projection2022-03-21": "411,000"
+	},
+	{
+		"id": 9,
+		"Name": "Kachia",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "252,568",
+		"Projection2022-03-21": "373,100"
+	},
+	{
+		"id": 10,
+		"Name": "Kaduna North",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "364,575",
+		"Projection2022-03-21": "538,600"
+	},
+	{
+		"id": 11,
+		"Name": "Kaduna South",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "402,731",
+		"Projection2022-03-21": "595,000"
+	},
+	{
+		"id": 12,
+		"Name": "Kagarko",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "239,058",
+		"Projection2022-03-21": "353,200"
+	},
+	{
+		"id": 13,
+		"Name": "Kajuru",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "109,810",
+		"Projection2022-03-21": "162,200"
+	},
+	{
+		"id": 14,
+		"Name": "Kaura",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "101,455",
+		"Census2006-03-21": "174,626",
+		"Projection2022-03-21": "258,000"
+	},
+	{
+		"id": 15,
+		"Name": "Kauru",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "116,284",
+		"Census2006-03-21": "221,276",
+		"Projection2022-03-21": "326,900"
+	},
+	{
+		"id": 16,
+		"Name": "Kubau",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "280,704",
+		"Projection2022-03-21": "414,700"
+	},
+	{
+		"id": 17,
+		"Name": "Kudan",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "138,956",
+		"Projection2022-03-21": "205,300"
+	},
+	{
+		"id": 18,
+		"Name": "Lere",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "205,727",
+		"Census2006-03-21": "339,740",
+		"Projection2022-03-21": "501,900"
+	},
+	{
+		"id": 19,
+		"Name": "Makarfi",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "146,574",
+		"Projection2022-03-21": "216,600"
+	},
+	{
+		"id": 20,
+		"Name": "Sabon-Gari",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "224,067",
+		"Census2006-03-21": "291,358",
+		"Projection2022-03-21": "430,500"
+	},
+	{
+		"id": 21,
+		"Name": "Sanga",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "...",
+		"Census2006-03-21": "151,485",
+		"Projection2022-03-21": "223,800"
+	},
+	{
+		"id": 22,
+		"Name": "Soba",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "174,217",
+		"Census2006-03-21": "291,173",
+		"Projection2022-03-21": "430,200"
+	},
+	{
+		"id": 23,
+		"Name": "Zangon-Kataf",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "140,224",
+		"Census2006-03-21": "318,991",
+		"Projection2022-03-21": "471,300"
+	},
+	{
+		"id": 24,
+		"Name": "Zaria",
+		"Status": "Local Government Area",
+		"Census1991-11-26": "284,318",
+		"Census2006-03-21": "406,990",
+		"Projection2022-03-21": "601,300"
+	}
+]

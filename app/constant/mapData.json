@@ -1,0 +1,2780 @@
+[
+
+    {
+      "type": "node",
+      "id": 317909388,
+      "lat": 10.5738040,
+      "lon": 7.4053223,
+      "tags": {
+        "amenity": "hospital",
+        "name": "National Eye Centre Nigeria"
+      }
+    },
+    {
+      "type": "node",
+      "id": 539450899,
+      "lat": 10.4443208,
+      "lon": 7.4236304,
+      "tags": {
+        "amenity": "school",
+        "name": "Command Secondary School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1880793618,
+      "lat": 10.4762373,
+      "lon": 7.4211579,
+      "tags": {
+        "addr:street": "Kachia Road",
+        "alt_name": "QAC",
+        "amenity": "school",
+        "int_name": "QAC",
+        "name": "Queen Amina College",
+        "old_name": "QAC"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1880797811,
+      "lat": 10.4803745,
+      "lon": 7.4194407,
+      "tags": {
+        "addr:street": "Kachia Road",
+        "amenity": "school",
+        "name": "Dambo Sixth Form College",
+        "operator": "Private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2524960957,
+      "lat": 10.4714673,
+      "lon": 7.4298348,
+      "tags": {
+        "amenity": "school",
+        "name": "Jinie Schools"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2862390778,
+      "lat": 10.5135500,
+      "lon": 7.4525528,
+      "tags": {
+        "amenity": "hospital",
+        "health_facility:type": "support_group_home",
+        "healthcare": "hospital",
+        "name": "Kaduna Emergency Operations Center",
+        "operator": "eHealth Africa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3644620783,
+      "lat": 10.5306460,
+      "lon": 7.4036788,
+      "tags": {
+        "amenity": "school",
+        "name": "Madrasatu Tarbiyyatul Awladul Muslimin"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4910976248,
+      "lat": 10.5352658,
+      "lon": 7.4556597,
+      "tags": {
+        "amenity": "school",
+        "name": "Essence International School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4910976257,
+      "lat": 10.5518630,
+      "lon": 7.4558453,
+      "tags": {
+        "amenity": "school",
+        "name": "Taurari Trend Setters School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4911584424,
+      "lat": 10.5432009,
+      "lon": 7.4555694,
+      "tags": {
+        "amenity": "school",
+        "name": "Zamani Junior Secondary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4911598968,
+      "lat": 10.5528992,
+      "lon": 7.4740608,
+      "tags": {
+        "amenity": "school",
+        "name": "F.G.C"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4911602170,
+      "lat": 10.5651904,
+      "lon": 7.4783743,
+      "tags": {
+        "amenity": "school",
+        "name": "Darrul Hudda"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4912459167,
+      "lat": 10.5423233,
+      "lon": 7.4400714,
+      "tags": {
+        "amenity": "school",
+        "name": "Moini"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4912505221,
+      "lat": 10.5458501,
+      "lon": 7.4442753,
+      "tags": {
+        "amenity": "school",
+        "name": "Public School (Black and White)"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4912656912,
+      "lat": 10.5108736,
+      "lon": 7.4412812,
+      "tags": {
+        "amenity": "school",
+        "name": "Sacre Heart"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4912691140,
+      "lat": 10.5364754,
+      "lon": 7.4341549,
+      "tags": {
+        "amenity": "school",
+        "name": "Laila Dogon Yaro"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4912868606,
+      "lat": 10.5381951,
+      "lon": 7.4654092,
+      "tags": {
+        "amenity": "school",
+        "name": "Turkish International School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4978843358,
+      "lat": 10.4484825,
+      "lon": 7.4364298,
+      "tags": {
+        "amenity": "school",
+        "name": "Ungwan Yelwa Primary School"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6131026290,
+      "lat": 10.5906360,
+      "lon": 7.4738693,
+      "tags": {
+        "addr:postcode": "800242",
+        "addr:street": "Isyaku road, hayin naiya",
+        "amenity": "school",
+        "name": "Al-muhibbah Islamic academy"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7359471294,
+      "lat": 10.4634938,
+      "lon": 7.4294474,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Federeal Neuro-Psychiatric Hospital, Barnawa"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7427962286,
+      "lat": 10.5430895,
+      "lon": 7.4331361,
+      "tags": {
+        "addr:city": "Unguwar Shanu",
+        "addr:postcode": "800242",
+        "addr:street": "Ahmadu Bello Way",
+        "amenity": "hospital",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "yes",
+        "health_amenity:type": "laboratory;ultrasound;x_ray",
+        "healthcare": "alternative;birthing_center;blood_donation;clinic;doctor;hospital;laboratory;optometrist;pharmacy",
+        "healthcare:speciality": "general",
+        "insurance:health": "private;public",
+        "name": "Giwa Hospital",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator": "Private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7427970785,
+      "lat": 10.5202000,
+      "lon": 7.4162543,
+      "tags": {
+        "addr:city": "Sabon Gari South",
+        "addr:postcode": "2234",
+        "addr:street": "Enugu Road",
+        "amenity": "hospital",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "yes",
+        "healthcare": "alternative;birthing_centre;blood_donation;clinic;dentist;doctor;hospital;laboratory;optometrist;pharmacy;physiotherapist;rehabilitation",
+        "insurance:health": "private;public",
+        "name": "Yusuf Dantsoho",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator:type": "public",
+        "water_source": "powered_pump",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7427978013,
+      "lat": 10.5099434,
+      "lon": 7.4276336,
+      "tags": {
+        "addr:city": "Sardauna",
+        "addr:street": "Yoruba Road",
+        "amenity": "hospital",
+        "emergency": "yes",
+        "healthcare": "hospital",
+        "healthcare:speciality": "general",
+        "name": "Jodeb Hospital",
+        "operator": "Private",
+        "operator:type": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7503751485,
+      "lat": 10.4877373,
+      "lon": 7.4204726,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "DICON Staff clinic"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7516064785,
+      "lat": 10.4677880,
+      "lon": 7.4136579,
+      "tags": {
+        "addr:city": "Makera",
+        "addr:postcode": "2234",
+        "addr:street": "Makera Main Road",
+        "amenity": "hospital",
+        "contact:phone": "08033496433",
+        "dispensing": "yes",
+        "electricity": "grid",
+        "emergency": "yes",
+        "health_amenity:type": "laboratory",
+        "healthcare": "blood_donation;doctor;hospital;laboratory",
+        "healthcare:speciality": "blood_check;general;gynaecology",
+        "insurance:health": "public",
+        "name": "Maneks Hospital",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator": "Private",
+        "operator:type": "private",
+        "water_source": "powered_pump",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7516081485,
+      "lat": 10.4839507,
+      "lon": 7.4246335,
+      "tags": {
+        "addr:city": "Barnawa",
+        "addr:housenumber": "Plot 18",
+        "addr:postcode": "10B X",
+        "addr:street": "Gongola road, off Chalawa Cresent",
+        "amenity": "hospital",
+        "contact:phone": "0806 943 2297",
+        "dispensing": "yes",
+        "electricity": "generator",
+        "emergency": "yes",
+        "health_amenity:type": "laboratory",
+        "healthcare": "doctor;hospital",
+        "healthcare:speciality": "general;gynaecology",
+        "insurance:health": "private;public",
+        "name": "Epsilon Specialist Hospital",
+        "opening_hours": "24/7",
+        "operational_status": "operational",
+        "operator": "Epsilon",
+        "operator:type": "private",
+        "water_source": "powered_pump",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11780292764,
+      "lat": 10.4911284,
+      "lon": 7.4145497,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Dwn Quarters Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782398013,
+      "lat": 10.5050376,
+      "lon": 7.4056435,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Islamic Medical Foundation Musawa Road Zango",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782398014,
+      "lat": 10.5044798,
+      "lon": 7.4109381,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Asibitinyara Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782398015,
+      "lat": 10.5052301,
+      "lon": 7.4121974,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Garba Lawal Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782406134,
+      "lat": 10.4684053,
+      "lon": 7.4135198,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Primary Health Center Maker",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782411410,
+      "lat": 10.5044139,
+      "lon": 7.3938122,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Kabala West Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518362,
+      "lat": 10.4781839,
+      "lon": 7.4102220,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Makera II Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518363,
+      "lat": 10.4784477,
+      "lon": 7.4110495,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Crystal Clinic",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518364,
+      "lat": 10.4760607,
+      "lon": 7.4101979,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Alheri Hospital And Maternity",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518365,
+      "lat": 10.4724988,
+      "lon": 7.4059345,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Jodem Hospital Yoruba Road Central Kaduna Central Kaduna",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518366,
+      "lat": 10.4668788,
+      "lon": 7.4103789,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ark Of God Covenant Clinics And Maternity",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518367,
+      "lat": 10.4688062,
+      "lon": 7.4112546,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "General Hospital NoB 2022 Samaru Road Opposite Post Office Kakuri Kaduna",
+        "operator": "government"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782518368,
+      "lat": 10.4691728,
+      "lon": 7.4122149,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Makera 1 Primary Health Care",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550750,
+      "lat": 10.5121093,
+      "lon": 7.4067043,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Cb2 Musawa By Faki Road Tudun Wada",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550751,
+      "lat": 10.5124073,
+      "lon": 7.4018267,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Kagoro Road Primary Health Care",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550752,
+      "lat": 10.4979894,
+      "lon": 7.3929566,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Ungwan Muazu Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550753,
+      "lat": 10.5002509,
+      "lon": 7.3859131,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Rapha Mamasuwe Maternity And Clinic",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550754,
+      "lat": 10.5017555,
+      "lon": 7.3866641,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Al Fijir Clinics",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550755,
+      "lat": 10.5035014,
+      "lon": 7.3886302,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Khamaz Clinic And Maternity",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550756,
+      "lat": 10.5044323,
+      "lon": 7.3937774,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Kabala West Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550757,
+      "lat": 10.5084436,
+      "lon": 7.3992746,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Abdulazeez Memorial Clinic and Maternity",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550758,
+      "lat": 10.5071250,
+      "lon": 7.3985235,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Hauwa Nursing And Maternity",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782550759,
+      "lat": 10.5080374,
+      "lon": 7.3969585,
+      "tags": {
+        "amenity": "hospital",
+        "name": "44 Military Hospital Yusuf Dantsoho Hospital And Nursing Home YB32 Kabala Road",
+        "operator": "miltary"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606691,
+      "lat": 10.5000544,
+      "lon": 7.4058285,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Hospitals And Clients No15 Madobi Road By Quranic Recitation Centre Kinkinau",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606692,
+      "lat": 10.5012017,
+      "lon": 7.4056891,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Kaduna State Polytechnic Clinic Tudun Wada No10 Musabaka Road Kinkinau Kaduna",
+        "operator": "government"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606693,
+      "lat": 10.5027326,
+      "lon": 7.4085885,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Zango Road Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606694,
+      "lat": 10.5050996,
+      "lon": 7.4056582,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Islamic Medical Foundation Musawa Road Zango",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606695,
+      "lat": 10.5051971,
+      "lon": 7.4121599,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Garba Lawal Primary Health Center",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606696,
+      "lat": 10.5109621,
+      "lon": 7.4133602,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Tudun Wada Family Health Unit Clinic",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606697,
+      "lat": 10.5069588,
+      "lon": 7.4069926,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Aman Clinic Makera Cd 35 Zango Road Sabon Gari South",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606698,
+      "lat": 10.5146911,
+      "lon": 7.4096869,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Jni Muslim Hospital",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782606699,
+      "lat": 10.5122741,
+      "lon": 7.4109824,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Yusuf Dantsoho Hospital Kv 206 Lbrahim Taiwo Road Tudun Wada Kaduna",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782662649,
+      "lat": 10.4734977,
+      "lon": 7.4026937,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Nassarawa Ecwa Maternity Home",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782678852,
+      "lat": 10.4952361,
+      "lon": 7.4026903,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Amina Nmadi Health Facility"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782699408,
+      "lat": 10.4911983,
+      "lon": 7.4146181,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Dwn Quarters Primary Health Center",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782699409,
+      "lat": 10.4967868,
+      "lon": 7.4187219,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Es 5 Junction Road By Station Roundabout Kaduna",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782699410,
+      "lat": 10.4964202,
+      "lon": 7.4187165,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Ishaku Hospital",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782717568,
+      "lat": 10.4802266,
+      "lon": 7.4089238,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "United Nigerian Textiles Hospital",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782771431,
+      "lat": 10.4761530,
+      "lon": 7.3979361,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sanasi Nursing And Maternity Home",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782771432,
+      "lat": 10.4780296,
+      "lon": 7.3969504,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Saint Gerad Hospital Kakuri Noaa 26 Makera Road Nasarawa Kaduna",
+        "operator": "private"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782806078,
+      "lat": 10.4653563,
+      "lon": 7.4023484,
+      "tags": {
+        "amenity": "hospital",
+        "name": "Dr Gwamna Awan General Hospital",
+        "operator": "public"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11782806079,
+      "lat": 10.4712486,
+      "lon": 7.3954108,
+      "tags": {
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Al Ramadan Nursing And Maternity Home Nassarawa",
+        "operator": "private"
+      }
+    },
+    {
+        "type": "node",
+        "id": 11782806080,
+        "lat": 10.4682787,
+        "lon": 7.3973340,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Baro Dikko No18 Kaduna Road By Dan Asabe Road Nasarawa Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11782806081,
+        "lat": 10.4683947,
+        "lon": 7.4115886,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Phc Makera Main Roadkakuri Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11782806082,
+        "lat": 10.4707158,
+        "lon": 7.3969303,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "General Hospital Baro Dikko No19 Kaduna Road Nasarawa Kafuna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11782806083,
+        "lat": 10.4705602,
+        "lon": 7.3987663,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Health Center Nassarawa",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11792530169,
+        "lat": 10.5034288,
+        "lon": 7.3960425,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Hospitals No13a Tafoki Road Kabala West",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11796135139,
+        "lat": 10.4600850,
+        "lon": 7.3979790,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Nassarawa Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11796135140,
+        "lat": 10.4611783,
+        "lon": 7.3980635,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospitals And Primary Health Care Gwagwada Primary Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11818228245,
+        "lat": 10.5509870,
+        "lon": 7.4599314,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Al Mansur Specialist Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11818241107,
+        "lat": 10.5491939,
+        "lon": 7.4648988,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Health Care Isa Kaita Raid Malali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11818241108,
+        "lat": 10.5480389,
+        "lon": 7.4705717,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Belmont Specialist Hospital"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11818241109,
+        "lat": 10.5513983,
+        "lon": 7.4672779,
+        "tags": {
+          "amenity": "hospital",
+          "name": "NNPC Industrial Clinic No35 Rabah Road"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11818241110,
+        "lat": 10.5616819,
+        "lon": 7.4678385,
+        "tags": {
+          "amenity": "hospital",
+          "name": "44 Hospital No8 Togo Street Malali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11818241111,
+        "lat": 10.5612574,
+        "lon": 7.4720845,
+        "tags": {
+          "amenity": "hospital",
+          "name": "M b Tukur Primary Health Care Malali"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11821347112,
+        "lat": 10.5514300,
+        "lon": 7.4673128,
+        "tags": {
+          "amenity": "hospital",
+          "name": "NNPC Industrial Clinic No35 Rabah Road",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11821379239,
+        "lat": 10.5593325,
+        "lon": 7.4576327,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Sickle Cell Patient Health Promotion Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11821379240,
+        "lat": 10.5510054,
+        "lon": 7.4598455,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Al Mansur Specialist Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11821808240,
+        "lat": 10.5566403,
+        "lon": 7.4409132,
+        "tags": {
+          "amenity": "hospital",
+          "name": "44 Army Hospital No13 Abba Road Off Lea Primary School Kagoro Road",
+          "operator": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823927533,
+        "lat": 10.5336676,
+        "lon": 7.4622649,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Hospital NoBN13 Kinshasha Road Unguwan Rimi Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823927534,
+        "lat": 10.5504978,
+        "lon": 7.4702378,
+        "tags": {
+          "amenity": "hospital",
+          "name": "specialist Hospital No6 Shehu Ibrahim Close Malali",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823927535,
+        "lat": 10.5511438,
+        "lon": 7.4477005,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Unguwar Sarki Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823927536,
+        "lat": 10.5465702,
+        "lon": 7.4412605,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Both Public And Private Hospitals And Clinics No21 Sani Sambo Avenue",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823927537,
+        "lat": 10.5470211,
+        "lon": 7.4380821,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Unguwan Shanu Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823929840,
+        "lat": 10.5820291,
+        "lon": 7.4526384,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Victory Specialist Hopital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823929842,
+        "lat": 10.5824484,
+        "lon": 7.4175471,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Farin Gida Alpha Specialist Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11823929844,
+        "lat": 10.5723184,
+        "lon": 7.4421108,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Ramat Hospital Hayin Banku Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824091607,
+        "lat": 10.5816547,
+        "lon": 7.4486929,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kawo General Hospital NoH14 Kawo Road Kawo Market Kawo Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824091608,
+        "lat": 10.5852194,
+        "lon": 7.4185100,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital Gwari Road Mando",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824287734,
+        "lat": 10.5778079,
+        "lon": 7.4357915,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Hayin Banki Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824330522,
+        "lat": 10.5845682,
+        "lon": 7.4413437,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital Kaduna No1and2 PTF Road Hayin Banki Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824330523,
+        "lat": 10.5834265,
+        "lon": 7.4469119,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kawo General Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824330524,
+        "lat": 10.5862292,
+        "lon": 7.4378729,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Soba Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824330525,
+        "lat": 10.5908009,
+        "lon": 7.4458927,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital Dana Old Airport Kawo Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824330526,
+        "lat": 10.5930947,
+        "lon": 7.4507716,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kawo Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824330527,
+        "lat": 10.5893245,
+        "lon": 7.4533385,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Division 44 Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824448755,
+        "lat": 10.5776761,
+        "lon": 7.4435618,
+        "tags": {
+          "amenity": "hospital",
+          "name": "44 Reference Hospital Plot A12 By Rail Line",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824504657,
+        "lat": 10.5718649,
+        "lon": 7.4581276,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Madinat Specialist Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824509207,
+        "lat": 10.5773781,
+        "lon": 7.4489906,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital NoT15 Darma Road Kawo",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824547912,
+        "lat": 10.6004452,
+        "lon": 7.4551490,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Jama'a Nursing And Maternity Home",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824634840,
+        "lat": 10.5423327,
+        "lon": 7.4723232,
+        "tags": {
+          "amenity": "hospital",
+          "name": "National Hospital Abuja No4mm Lawal Jafaru Isa Road",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824752744,
+        "lat": 10.5352366,
+        "lon": 7.4654675,
+        "tags": {
+          "amenity": "hospital",
+          "name": "ABU Teaching Hospital Shika Zaria No11a Danmarna Road Unguwan Rimi Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824754189,
+        "lat": 10.5423300,
+        "lon": 7.4723661,
+        "tags": {
+          "amenity": "hospital",
+          "name": "National Hospital Abuja No4mm Lawal Jafaru Isa Road",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824819820,
+        "lat": 10.5266979,
+        "lon": 7.4622837,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Unguwar Rimi Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824819821,
+        "lat": 10.5222992,
+        "lon": 7.4625438,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Specialist Hospital No24 Kubaka Road Off Jaabdulkadir Road Unguwan Kudu Unguwan Rimi Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824841217,
+        "lat": 10.5395138,
+        "lon": 7.4605899,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Multi Clinic",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824841218,
+        "lat": 10.5316555,
+        "lon": 7.4599501,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Isuhu Dan Tsoho Hospital Isuhu Dan Tsoho Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824841219,
+        "lat": 10.5272767,
+        "lon": 7.4605496,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Family Care Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824862758,
+        "lat": 10.5510160,
+        "lon": 7.4598563,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Al Mansur Specialist Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824862759,
+        "lat": 10.5093798,
+        "lon": 7.4578848,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Specialist Hospital No20a Gobarar Road Unguwar Rimi Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824896242,
+        "lat": 10.5363863,
+        "lon": 7.4515468,
+        "tags": {
+          "amenity": "hospital",
+          "name": "NNPC Hospital No2 Sultan Road Unguwan Rimi Gra Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824942505,
+        "lat": 10.5020008,
+        "lon": 7.4463929,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Healthcare Kabala Layin Sarki Kabalan Doki Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824942506,
+        "lat": 10.5046117,
+        "lon": 7.4492347,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary health care Kc3 Zuba Road Shooting Range Kabala",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824942507,
+        "lat": 10.5189870,
+        "lon": 7.4495432,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital Kaduna State University Campus Tafawa Balewa Way Unguwan Rimi Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824942508,
+        "lat": 10.5457264,
+        "lon": 7.4468985,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Dialogue Clinic Isah Kaita",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824959767,
+        "lat": 10.5134569,
+        "lon": 7.4453710,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Meyetti Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824959768,
+        "lat": 10.5197017,
+        "lon": 7.4411076,
+        "tags": {
+          "amenity": "hospital",
+          "name": "National Healthcare Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824994269,
+        "lat": 10.5145434,
+        "lon": 7.4413034,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Marafa Close Off Independence Way Marafa",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824994270,
+        "lat": 10.5132881,
+        "lon": 7.4414885,
+        "tags": {
+          "amenity": "hospital",
+          "name": "44 Army Hospital No27 Idenpence Way Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824998216,
+        "lat": 10.5223994,
+        "lon": 7.4389270,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Ministry Of Health and Human Service Kaduna State Kaduna"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11824998217,
+        "lat": 10.5155877,
+        "lon": 7.4356574,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Jos Road Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825002841,
+        "lat": 10.5040592,
+        "lon": 7.4322067,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Children Specialist Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825002842,
+        "lat": 10.5440388,
+        "lon": 7.4322027,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Orthopedic Hospital No12 B Ustaz Yunuz Street",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825002843,
+        "lat": 10.5092005,
+        "lon": 7.4318594,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Zakari Memorial Clinic Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825002844,
+        "lat": 10.5141808,
+        "lon": 7.4326117,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Jowako Specialist Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825006851,
+        "lat": 10.5013388,
+        "lon": 7.4401420,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Haelth Care No1 River Line Road Kabala Coastin",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825006852,
+        "lat": 10.5099151,
+        "lon": 7.4443075,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Police College Clinic Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825006853,
+        "lat": 10.5038508,
+        "lon": 7.4406825,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Mt Horeb Specialist Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825006854,
+        "lat": 10.5021432,
+        "lon": 7.4436034,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kabala Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825006855,
+        "lat": 10.5007876,
+        "lon": 7.4431971,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Rimi Clinic",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825021546,
+        "lat": 10.5142296,
+        "lon": 7.4263461,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Health Center Warri Street",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825021547,
+        "lat": 10.5316529,
+        "lon": 7.4241319,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gimo Maternity Buba Sauri Road Romi",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825025721,
+        "lat": 10.4996602,
+        "lon": 7.4370629,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Skills Specialist Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825047611,
+        "lat": 10.5100826,
+        "lon": 7.4256407,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Zion Clinic Ak45 Yoruba Road",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825047612,
+        "lat": 10.5038864,
+        "lon": 7.4263635,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Junction Road Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11825049504,
+        "lat": 10.5465649,
+        "lon": 7.4264145,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Abakawa Community Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826857860,
+        "lat": 10.4387629,
+        "lon": 7.4199222,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Governor One Hospital No3 Dokaji Street Romi",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826857861,
+        "lat": 10.4506276,
+        "lon": 7.3990104,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Unguwan Makama Clinic",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826857862,
+        "lat": 10.4428515,
+        "lon": 7.4156937,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Savannah Hospital And Maternity",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826857863,
+        "lat": 10.4403483,
+        "lon": 7.4155784,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gwamna Awan General Hospital Nassarawa Kaduna NoR F 2 Wasah Yari Street Unguwan Romi New Extension Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826857864,
+        "lat": 10.4424268,
+        "lon": 7.4135292,
+        "tags": {
+          "amenity": "hospital",
+          "name": "St Gerard's Hospital Kakuri Kaduna No3 Maikushi Street Off Auta Jagaba Romi New Extension Kaduna",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826857865,
+        "lat": 10.4397534,
+        "lon": 7.4075036,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Jadan Clinic And Maternity",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826878166,
+        "lat": 10.4515139,
+        "lon": 7.4327016,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Unguwar Mai Chibi Comprehensive Health Care",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826878167,
+        "lat": 10.4553016,
+        "lon": 7.4199718,
+        "tags": {
+          "amenity": "hospital",
+          "name": "312 Artenary Kalapanzi Barracks Primary Health Center",
+          "operator": "other"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826878168,
+        "lat": 10.4551394,
+        "lon": 7.4259518,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Amina Hospital And Maternity",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916802,
+        "lat": 10.4611638,
+        "lon": 7.3980770,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospitals And Primary Health Care Gwagwada Primary Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916803,
+        "lat": 10.4635943,
+        "lon": 7.4316595,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Barau Dikko Teaching Hospital No1 Suleiman Ahmed Road Shagari Lowcost",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916804,
+        "lat": 10.4633952,
+        "lon": 7.4286273,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Jibril Birnin Gwari General Hospital Pmp 27187 Zahid Road Opposite Shagari Road",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916805,
+        "lat": 10.4587991,
+        "lon": 7.4194863,
+        "tags": {
+          "amenity": "hospital",
+          "name": "312 Artillery Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916806,
+        "lat": 10.4562564,
+        "lon": 7.4126682,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Three Primary Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916807,
+        "lat": 10.4647865,
+        "lon": 7.4134836,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Kakuri Hausa Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916808,
+        "lat": 10.4633438,
+        "lon": 7.4142728,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Senda Poly Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826916809,
+        "lat": 10.4609158,
+        "lon": 7.4098881,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kakuri Gwari 1 Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826918569,
+        "lat": 10.4484106,
+        "lon": 7.4333185,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Holiness Nursing And Maternity",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826918570,
+        "lat": 10.4462740,
+        "lon": 7.4275625,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Theck Maternity Home",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826963076,
+        "lat": 10.4828469,
+        "lon": 7.4386092,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Teaching Hospital No10 Sylvester Crescent Barnawa Kaduna State",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826963077,
+        "lat": 10.4843437,
+        "lon": 7.4258217,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Barau Diko Specialist Hospital Kaduna Plot 32 Gongola Roadchallawa Crescentbarnawa Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826963078,
+        "lat": 10.4814346,
+        "lon": 7.4296680,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Hajia Asama'u Ahmad Makarfi Health Center Barnawa",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826963079,
+        "lat": 10.4816126,
+        "lon": 7.4281311,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Giltoo Aris Specialist Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826963081,
+        "lat": 10.4748145,
+        "lon": 7.4230993,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Gomna Awan Hospital Queen Amina College Pobox 211",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826973500,
+        "lat": 10.4681890,
+        "lon": 7.4376208,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Anturu Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826973501,
+        "lat": 10.4667700,
+        "lon": 7.4392945,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "Koron Tsohuwa Primary Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826973502,
+        "lat": 10.4772779,
+        "lon": 7.4371031,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "St Gerald Catholic Hospital No74 Naiyayi Road Opposite Space 2000",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826973503,
+        "lat": 10.4668781,
+        "lon": 7.4207550,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "St Gerard's Catholic Church Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826982291,
+        "lat": 10.5527141,
+        "lon": 7.4148756,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kurmin Mashi181 Primary Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826982292,
+        "lat": 10.5570174,
+        "lon": 7.4140093,
+        "tags": {
+          "amenity": "hospital",
+          "name": "44 Military Hospital And Yusuf Dantsoho Hospital Kaduna Opposite Police Statoin Kurmin Mashi",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826995780,
+        "lat": 10.5357165,
+        "lon": 7.4084182,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Badikko Family Health",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826995781,
+        "lat": 10.5370456,
+        "lon": 7.4226165,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Sefa Specialist Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826995782,
+        "lat": 10.5388677,
+        "lon": 7.4093489,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Yelwa Maibene Health Clinic",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11826995783,
+        "lat": 10.5425673,
+        "lon": 7.4119668,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Musaka Beto Specialist Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827124516,
+        "lat": 10.5316529,
+        "lon": 7.4241024,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gimo Maternity Buba Sauri Road Romi",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827124517,
+        "lat": 10.5350388,
+        "lon": 7.4221176,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Nigerian Army Reference Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827124518,
+        "lat": 10.5327749,
+        "lon": 7.4016161,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Askolaye Primary Health Center",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827329680,
+        "lat": 10.5284898,
+        "lon": 7.4187286,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Yusuf Dantsoho General Hospital Kaduna Inside Sir Kashim Ibrahim House Kafuna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827329681,
+        "lat": 10.5276485,
+        "lon": 7.4035312,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Yusuf Dantsoho Hospital Pq 12 Danladi Inusa Road Uguwan Sunusi Kaduna",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827329682,
+        "lat": 10.5303186,
+        "lon": 7.4036801,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Rasmah Maternity And Clinic",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827330460,
+        "lat": 10.5201183,
+        "lon": 7.3957676,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Zaitun Clinic",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827330461,
+        "lat": 10.5240608,
+        "lon": 7.4158493,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Shehu Muhammad Kangiwa Medical Center Kaduna Polytechnic",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827330462,
+        "lat": 10.5246990,
+        "lon": 7.4104741,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Ungwan Sanusi Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827330463,
+        "lat": 10.5241360,
+        "lon": 7.4002670,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barka Specialist Hospital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827330464,
+        "lat": 10.5194775,
+        "lon": 7.4069282,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kubau Road Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827376603,
+        "lat": 10.5150102,
+        "lon": 7.3990506,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Amrullah Hospital",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827376604,
+        "lat": 10.5163182,
+        "lon": 7.4168561,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Tudun Nupawa Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11827376605,
+        "lat": 10.5171014,
+        "lon": 7.4147616,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Hospitals Zci Rock Road Tudun Nupawa",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11830282406,
+        "lat": 10.4589099,
+        "lon": 7.5800219,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Methodist Church Hospital",
+          "operator": "unknown"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11830282407,
+        "lat": 10.4480637,
+        "lon": 7.5664338,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Close To The Sarki's House Maraban Damishi",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11830282408,
+        "lat": 10.4435373,
+        "lon": 7.5705644,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Harmony Hospital Barnawa Goodnews Academy No8 Damishi Village Off Kachia Road By 1st Baptist Church Maraban Damishi",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11830841254,
+        "lat": 10.4425258,
+        "lon": 7.5560638,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Hope For The Village Clinic",
+          "operator": "unknown"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11830841255,
+        "lat": 10.4426405,
+        "lon": 7.5511600,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Faith Academy Kaduna Off Kachia Road Opposite Jakaranda",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832663811,
+        "lat": 10.4294856,
+        "lon": 7.5274962,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Beside Jeshmic Redemption School Maraban Rido",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832663812,
+        "lat": 10.4310947,
+        "lon": 7.5220460,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Phc Maraba Rido No1 Green House Opp Sabon Rai By Gyara Junction",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832663813,
+        "lat": 10.4322158,
+        "lon": 7.5286496,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Maraban Rido Primary Health Center",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832663814,
+        "lat": 10.4335783,
+        "lon": 7.5328365,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kauna Clinic Kujama By Novin Gust House Maraba Rido",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832663815,
+        "lat": 10.4281139,
+        "lon": 7.5280997,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha St Simon Catholic Church",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832663816,
+        "lat": 10.4260801,
+        "lon": 7.5328539,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Down The Market Road Maraban Rido",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11832668978,
+        "lat": 10.5544280,
+        "lon": 7.5285879,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Doka Primary Health Center",
+          "operator": "Public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833000460,
+        "lat": 10.5591387,
+        "lon": 7.4940035,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital No2 Kkb Sarki Street Keke B",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833000461,
+        "lat": 10.5564900,
+        "lon": 7.4936548,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Kaduna Keke B Main Township Road",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833000462,
+        "lat": 10.5361780,
+        "lon": 7.5051668,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital Dan Honu 2 New Millennium City",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833000463,
+        "lat": 10.5240990,
+        "lon": 7.4888644,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Barau Dikko Teaching Hospital Jama'a Road Kadaure",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833000464,
+        "lat": 10.5090119,
+        "lon": 7.4747103,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Rido Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833168849,
+        "lat": 10.5020060,
+        "lon": 7.4464385,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Healthcare Kabala Layin Sarki Kabalan Doki Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11833168850,
+        "lat": 10.4956172,
+        "lon": 7.4672511,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Health Care By Yakowa Way Karjipu",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837273441,
+        "lat": 10.3950908,
+        "lon": 7.4232481,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gonin Gora Health Clinic Health Clinic Angwan Madaki Opposite Deeper Life Church",
+          "operator": "others"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837320101,
+        "lat": 10.3986312,
+        "lon": 7.3953518,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Nasarawa Ungwan Doma",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430848,
+        "lat": 10.4352968,
+        "lon": 7.4206182,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Yelwa Primary Health Care",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430849,
+        "lat": 10.4353417,
+        "lon": 7.4162865,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Tree Star Hospital No1 Natata Street",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430850,
+        "lat": 10.4364812,
+        "lon": 7.3978738,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Abu Hospital Plot 13 Maje Street Gonin Gora",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430851,
+        "lat": 10.4311527,
+        "lon": 7.3971570,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Health Centre Gonin Gora",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430852,
+        "lat": 10.4312055,
+        "lon": 7.4018656,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gonin Gora Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430853,
+        "lat": 10.4196316,
+        "lon": 7.3953196,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Kaduna Florence Chukwuemeka Chemist By Sabon Hanya Before Catholic Church Unguwan Bije Gonin Gora Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430854,
+        "lat": 10.4245857,
+        "lon": 7.4153383,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "General Hospital Sabon Tasha Karatudu Road",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430855,
+        "lat": 10.4217433,
+        "lon": 7.4167974,
+        "tags": {
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "name": "General Hospital Sabon Tasha Danhoni Street Ungwan Tanko",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430856,
+        "lat": 10.4153673,
+        "lon": 7.4244994,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gwamna Awan General Hospital Tunga Road No60 Angwa Sauri",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430857,
+        "lat": 10.4077539,
+        "lon": 7.4058031,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Zaitun Clinic Buwaya",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11837430858,
+        "lat": 10.4048229,
+        "lon": 7.4070275,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Buwaya Health Clinic",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873863538,
+        "lat": 10.4013630,
+        "lon": 7.4977666,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Health Care Off Sarki Street Opp Bahago School Rido"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873863539,
+        "lat": 10.3979368,
+        "lon": 7.4967796,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Off Nnpc Rido Roadno 1 Market Road Along Abuja Express Way Rido Behind Nnpc Rido",
+          "operator": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873863540,
+        "lat": 10.3991576,
+        "lon": 7.5083412,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Primary Health Care Tudun Wada Road Rido",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895583,
+        "lat": 10.4562525,
+        "lon": 7.4562728,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Barodikko No1b Yarima Street Ang Pama",
+          "operator": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895584,
+        "lat": 10.4513464,
+        "lon": 7.4691676,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Firoro Road Uboro Sabon Tasha Kaduna",
+          "operator": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895585,
+        "lat": 10.4766344,
+        "lon": 7.4572974,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Bayan Dutse Primary Health Care",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895586,
+        "lat": 10.4847894,
+        "lon": 7.4631125,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Babban Saura Primary Health Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895587,
+        "lat": 10.4565136,
+        "lon": 7.4862546,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Dan Giwa Hospital Marabar Rido No1 Umar Faruk By Yakowa Express Kamazo Gra",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895588,
+        "lat": 10.4566692,
+        "lon": 7.4885559,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha No29 Layin Sarki Beside De Gideon Medical Kamazo",
+          "operator": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895589,
+        "lat": 10.4671828,
+        "lon": 7.4846734,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kamazou Health Clinic",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11873895590,
+        "lat": 10.4717814,
+        "lon": 7.4928313,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Bagado Dispensary Clinic",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11880826634,
+        "lat": 10.4471920,
+        "lon": 7.4345952,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Cocin Clinic And Maternity",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11880826635,
+        "lat": 10.4469427,
+        "lon": 7.4690536,
+        "tags": {
+          "amenity": "hospital",
+          "name": "St Gerards Catholic Hospital Kakuri Kaduna Our Lady Of Fatima Girls Secondary Schools Sabon Tasha Kaduna",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11880826636,
+        "lat": 10.4335453,
+        "lon": 7.4586345,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabontasha Kaduna Majalisa Street Sabontasha Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883171649,
+        "lat": 10.4282405,
+        "lon": 7.3560494,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Kakau Primary Health Care Center",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883171650,
+        "lat": 10.4196672,
+        "lon": 7.3884693,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gwamna Awan General Hospital Nassarawa Kaduna Amaka Vitalis Chemist Before Household Of Love Church Lamigyi Gonin Gora Kaduna",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883386777,
+        "lat": 10.4776867,
+        "lon": 7.3744896,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Gwanna Awan General Hispital",
+          "operator": "public"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883386778,
+        "lat": 10.4782063,
+        "lon": 7.3790279,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Henlong Medical Clinic And Maternity",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883386779,
+        "lat": 10.4755477,
+        "lon": 7.3717189,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Makera Kakuri Kaduna No12 Ligari Road Kadunadan Kaduna",
+          "operator": "government"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883386780,
+        "lat": 10.4857099,
+        "lon": 7.3199227,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Layi Health Dispensary",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883410149,
+        "lat": 10.4566257,
+        "lon": 7.3876190,
+        "tags": {
+          "amenity": "hospital",
+          "name": "Sanjarata Hospital No1 Block Ab Agwa New Extension Behind Makarfi Estate Trikania New Extension Kaduna",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 11883410150,
+        "lat": 10.4350489,
+        "lon": 7.3844942,
+        "tags": {
+          "amenity": "hospital",
+          "name": "General Hospital Sabon Tasha Kaduna David Mifson Chemist Sa Gbagyi Street After Sharp Corner Durumi New Extension Gonin Gora Kaduna",
+          "operator": "private"
+        }
+      },
+      {
+        "type": "node",
+        "id": 12048404444,
+        "lat": 10.4678824,
+        "lon": 7.4081773,
+        "tags": {
+          "addr:city": "Makera",
+          "addr:housenumber": "38",
+          "addr:street": "Air Force-Samaru Road",
+          "amenity": "hospital",
+          "healthcare": "hospital",
+          "mobile": "+2349099026342",
+          "name": "Oxford Hospital",
+          "opening_hours": "24/7",
+          "operator:type": "private"
+        }
+      }
+      
+        ]
+      

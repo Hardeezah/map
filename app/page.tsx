@@ -1,38 +1,51 @@
-// /app/page.tsx
-import dynamic from 'next/dynamic';
+'use client';
+
+import { useState } from 'react';
 import Sidebar from './components/Sidebar';
-import axios from 'axios';
-import Navbar from './components/Navbar';
+import KadunaMap from './components/Map';
+import locationData from './constant/mapData.json'; // Import your JSON data
 
-// Dynamically load the map component (only works in the client)
-const Map = dynamic(() => import('./components/Map'), { ssr: false });
+// Define initial location data with explicit typing
+const initialLocations: Location[] = locationData.map(location => ({
+  id: location.id,
+  name: location.tags.name,
+  category: location.tags.amenity,
+  lat: location.lat,
+  lon: location.lon,
+}));
 
-export default async function Home() {
-  const overpassQuery = `
-    [out:json];
-    (
-      node["amenity"="hospital"](10.3932,7.2654,10.7200,7.5823);  // Kaduna bounding box
-      node["amenity"="school"](10.3932,7.2654,10.7200,7.5823);
-    );
-    out body;
-  `;
+export default function Home() {
+  const [filteredLocations, setFilteredLocations] = useState<Location[]>(initialLocations);
+  const [mapCenter, setMapCenter] = useState<[number, number]>([10.5105, 7.4165]); // Initial center
 
-  // Fetch data from Overpass API on the server side
-  const url = `https://overpass-api.de/api/interpreter?data=${encodeURIComponent(overpassQuery)}`;
-  
-  let locations = [];
-  try {
-    const response = await axios.get(url);
-    locations = response.data.elements; // Extract the relevant data
-  } catch (error) {
-    console.error("Error fetching data from Overpass API", error);
-  }
+  // Function to handle filtering
+  const handleFilter = (category: string | null) => {
+    if (category) {
+      const filtered = initialLocations.filter((location) => location.category === category);
+      setFilteredLocations(filtered);
+    } else {
+      setFilteredLocations(initialLocations); // Show all locations if no category is selected
+    }
+  };
 
-  // Pass the data to the client component (KadunaMap)
+  // Function to handle search
+  const handleSearch = (selectedLocation: Location) => {
+    const foundLocation = initialLocations.find(location => location.name === selectedLocation.name);
+
+    if (foundLocation) {
+      setMapCenter([foundLocation.lat, foundLocation.lon]); // Update the center based on the found location
+    }
+  };
+
   return (
     <div className="flex">
-      <Sidebar/>
-      <Map locations={locations} />
+      <Sidebar
+        data={initialLocations}   // Pass initial locations for search and filter
+        onSearch={handleSearch}    // Pass the onSearch function
+        onFilter={handleFilter}     // Pass the onFilter function
+        onClose={() => console.log('Sidebar closed')}
+      />
+      <KadunaMap locations={filteredLocations} center={mapCenter} /> {/* Pass the map center */}
     </div>
   );
 }

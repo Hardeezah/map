@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kaduna",
+          "description": "The outline of Kaduna State"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [7.222, 10.397],
+              [7.222, 10.562],
+              [7.433, 10.562],
+              [7.433, 10.397],
+              [7.222, 10.397]
+            ]
+          ]
+        }
+      }
+    ]
+  }
+  
