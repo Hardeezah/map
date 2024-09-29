@@ -17,6 +17,7 @@ const initialLocations: Location[] = locationData.map(location => ({
 export default function Home() {
   const [filteredLocations, setFilteredLocations] = useState<Location[]>(initialLocations);
   const [mapCenter, setMapCenter] = useState<[number, number]>([10.5105, 7.4165]); // Initial center
+  const [selectedLocationId, setSelectedLocationId] = useState<number | null>(null); // To track the selected location
 
   // Function to handle filtering
   const handleFilter = (category: string | null) => {
@@ -34,6 +35,7 @@ export default function Home() {
 
     if (foundLocation) {
       setMapCenter([foundLocation.lat, foundLocation.lon]); // Update the center based on the found location
+      setSelectedLocationId(foundLocation.id); // Highlight the selected location
     }
   };
 
@@ -45,7 +47,11 @@ export default function Home() {
         onFilter={handleFilter}     // Pass the onFilter function
         onClose={() => console.log('Sidebar closed')}
       />
-      <KadunaMap locations={filteredLocations} center={mapCenter} /> {/* Pass the map center */}
+      <KadunaMap
+        locations={filteredLocations}
+        center={mapCenter}
+        selectedLocationId={selectedLocationId}  // Pass the selected location ID for animation
+      />
     </div>
   );
 }

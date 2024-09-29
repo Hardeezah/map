@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect } from 'react';
 import { CiSearch } from 'react-icons/ci';
-import DataDisplay from './LocationList'; // Import your DataDisplay component
+import DataDisplay from './LocationList'; // Optional component, if you need additional data display
 
 export type Location = {
   id: number;
@@ -13,9 +13,9 @@ export type Location = {
 
 type SidebarProps = {
   data: Location[];
-  onSearch: (location: Location) => void; 
-  onFilter: (category: string | null) => void;  
-  onClose: () => void; 
+  onSearch: (location: Location) => void;
+  onFilter: (category: string | null) => void;
+  onClose: () => void;
 };
 
 const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) => {
@@ -62,7 +62,7 @@ const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) 
                 key={location.id}
                 className="p-2 hover:bg-gray-300 cursor-pointer text-gray-800 font-semibold text-sm"
                 onClick={() => {
-                  onSearch(location); // Center the map on the selected location
+                  onSearch(location); // Set the map center to the selected location
                   setSearchTerm(''); // Clear search after selection
                 }}
               >
@@ -98,7 +98,7 @@ const Sidebar: React.FC<SidebarProps> = ({ data, onSearch, onFilter, onClose }) 
         </div>
       </div>
 
-      <DataDisplay />
+      <DataDisplay /> {/* Optional component */}
     </div>
   );
 };

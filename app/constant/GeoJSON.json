@@ -1,25 +1,23 @@
 {
-    "type": "FeatureCollection",
-    "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "name": "Kaduna",
-          "description": "The outline of Kaduna State"
-        },
-        "geometry": {
-          "type": "Polygon",
-          "coordinates": [
-            [
-              [7.222, 10.397],
-              [7.222, 10.562],
-              [7.433, 10.562],
-              [7.433, 10.397],
-              [7.222, 10.397]
-            ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "Kaduna" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [7.385, 9.543],
+            [7.542, 10.152],
+            [7.940, 10.242],
+            [7.876, 10.484],
+            [7.429, 10.667],
+            [7.112, 10.424],
+            [7.385, 9.543]
           ]
-        }
+        ]
       }
-    ]
-  }
-  
+    }
+  ]
+}
